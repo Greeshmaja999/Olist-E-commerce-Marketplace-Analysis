@@ -9,7 +9,7 @@ Tools
 
 MySQL: Data exploration and SQL analysis
 
-Power BI: Dashboard development (in progress)
+Power BI: Dashboard development
 
 Dataset
 
